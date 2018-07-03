@@ -1,0 +1,2 @@
+sh build.sh kikyu Kikyu kikyu.cpp ../assets
+sh build.sh pyon Pyon pyon.cpp _assets
